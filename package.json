@@ -23,7 +23,9 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.0.3",
     "node-cron": "^4.2.1",
-    "nodemailer": "^7.0.7"
+    "nodemailer": "^7.0.7",
+    "winston": "^3.18.3",
+    "winston-daily-rotate-file": "^5.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
